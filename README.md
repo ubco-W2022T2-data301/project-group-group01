@@ -1,6 +1,6 @@
 # Group YY - {Short snappy Title of your project}
 
-- Your title can change over time.
+Housing Price in the Context of Various Societal and Economic Trends
 
 ## Milestones
 
@@ -8,15 +8,15 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+Our group is comprised of students from various backgrounds in STEM with varied levels of coding experience, however we all have an interest in investigating the cause for the increased housing costs as it is a topic we all have experience in. We suspect that the increase in housing cost is a multivariate outcome resultant from rising population numbers and a stopgap on the number of new available homes, and we plan on conducting data analysis accordingly with public datasets from Stat Canada that encompass data on these variables. We aim to illucidate the causal relationship between these identified variables and see how they vary between metropolitan areas in Canada, with the intention of providing clear information on the housing affordability of different Canadian hubs. We expect to be on track to finish this project by the beginning of April and will check in with our advisors periodically and have regularly scheduled group meetings to assess our project's timeline. 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+Our dataset comprises 4 CSV files, all obtained from the statistics canada site, and used under their open data license. The easiest to describe is the one for interest rates. The only non-metadata in the dataset is of the daily overnight interest rate as set by the Bank of Canada, which is then archived digitally and published. The index of new housing prices is similarly compact, it comprises the monthly index of housing prices broken down by land and structure value in various regions. We speculate that this data is likely gatheres through the Canada mortgage corporation and analyzed internally before publication. New inventory and population estimates are the most complex, new inventory breaks down into several categories, such as new starts and completions. For our purpose we will only look at new completions, since this gives us the best estimate of actual inventory. Population estimates is the most volumous set, this set has not only yearly population estimates, but also breakdowns by demographic. We hope to use this to analyze factors such as demographics, and how changes in demographics might affect prices. 
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- James: I Majored in Biology but also really like economics!
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
