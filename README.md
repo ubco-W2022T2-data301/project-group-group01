@@ -1,4 +1,4 @@
-# Group YY - {Short snappy Title of your project}
+# Group 01 - Canadian Housing Project
 
 Housing Price in the Context of Various Societal and Economic Trends
 
@@ -17,8 +17,8 @@ Our dataset comprises 4 CSV files, all obtained from the statistics canada site,
 ## Team Members
 
 - James: I Majored in Biology but also really like economics!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Logan: I'm an international student from California that majored in Biochemistry and Molecular Biology and minored in Psychology, Im keen to pursue a Canadian Masters in Biomedical Technology and Business Administration following undergraduate studies!
+- Katrina: I'm a Microbiology undergraduate and executive on the MCU!
 
 ## Images
 
