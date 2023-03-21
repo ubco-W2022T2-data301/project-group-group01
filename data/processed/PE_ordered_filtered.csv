@@ -1,31 +1,31 @@
-,index,GEO,REF_DATE,VALUE
-0,158,"Toronto, Ontario",15267285,1017751560.5
-1,95,"Montréal, Quebec",15267285,703690725.4
-2,162,"Vancouver, British Columbia",15267285,424169875.3
-3,107,"Ottawa-Gatineau, Ontario/Quebec",15267285,227808266.5
-4,29,"Calgary, Alberta",15267285,226913463.6
-5,55,"Edmonton, Alberta",15267285,216558404.5
-6,123,"Québec, Quebec",15267285,136022098.7
-7,173,"Winnipeg, Manitoba",15267285,134563189.3
-8,68,"Hamilton, Ontario",15267285,131612079.4
-9,81,"Kitchener-Cambridge-Waterloo, Ontario",15267285,91633761.7
-10,89,"London, Ontario",15267285,87679197.0
-11,144,"St. Catharines-Niagara, Ontario",15267285,72307729.3
-12,67,"Halifax, Nova Scotia",15267285,71591759.9
-13,105,"Oshawa, Ontario",15267285,65354293.8
-14,164,"Victoria, British Columbia",15267285,63975844.0
-15,171,"Windsor, Ontario",15267285,59254245.5
-16,137,"Saskatoon, Saskatchewan",15267285,49335589.5
-17,125,"Regina, Saskatchewan",15267285,39853987.7
-18,141,"Sherbrooke, Quebec",15267285,36057199.2
-19,145,"St. John's, Newfoundland and Labrador",15267285,34957355.5
-20,21,"Barrie, Ontario",15267285,34059621.5
-21,77,"Kelowna, British Columbia",15267285,33130701.4
-22,0,"Abbotsford-Mission, British Columbia",15267285,31345255.8
-23,65,"Greater Sudbury, Ontario",15267285,29594687.6
-24,80,"Kingston, Ontario",15267285,28883662.5
-25,129,"Saguenay, Quebec",15267285,28296683.0
-26,159,"Trois-Rivières, Quebec",15267285,26867298.7
-27,66,"Guelph, Ontario",15267285,26160938.9
-28,94,"Moncton, New Brunswick",15267285,24934488.6
-29,26,"Brantford, Ontario",15267285,24738618.5
+,GEO,REF_DATE,VALUE
+0,"Toronto, Ontario",15267285,1017751560.5
+1,"Montréal, Quebec",15267285,703690725.4
+2,"Vancouver, British Columbia",15267285,424169875.3
+3,"Ottawa-Gatineau, Ontario/Quebec",15267285,227808266.5
+4,"Calgary, Alberta",15267285,226913463.6
+5,"Edmonton, Alberta",15267285,216558404.5
+6,"Québec, Quebec",15267285,136022098.7
+7,"Winnipeg, Manitoba",15267285,134563189.3
+8,"Hamilton, Ontario",15267285,131612079.4
+9,"Kitchener-Cambridge-Waterloo, Ontario",15267285,91633761.7
+10,"London, Ontario",15267285,87679197.0
+11,"St. Catharines-Niagara, Ontario",15267285,72307729.3
+12,"Halifax, Nova Scotia",15267285,71591759.9
+13,"Oshawa, Ontario",15267285,65354293.8
+14,"Victoria, British Columbia",15267285,63975844.0
+15,"Windsor, Ontario",15267285,59254245.5
+16,"Saskatoon, Saskatchewan",15267285,49335589.5
+17,"Regina, Saskatchewan",15267285,39853987.7
+18,"Sherbrooke, Quebec",15267285,36057199.2
+19,"St. John's, Newfoundland and Labrador",15267285,34957355.5
+20,"Barrie, Ontario",15267285,34059621.5
+21,"Kelowna, British Columbia",15267285,33130701.4
+22,"Abbotsford-Mission, British Columbia",15267285,31345255.8
+23,"Greater Sudbury, Ontario",15267285,29594687.6
+24,"Kingston, Ontario",15267285,28883662.5
+25,"Saguenay, Quebec",15267285,28296683.0
+26,"Trois-Rivières, Quebec",15267285,26867298.7
+27,"Guelph, Ontario",15267285,26160938.9
+28,"Moncton, New Brunswick",15267285,24934488.6
+29,"Brantford, Ontario",15267285,24738618.5
