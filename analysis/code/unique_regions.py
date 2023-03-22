@@ -12,7 +12,6 @@ def unique_regions(*dfs, col_name='GEO'):
     The first set contains regions unique to the first dataframe, the second set contains regions unique
     to the second dataframe, etc.
     """
-    #will it recognize the docstring?
     regions = []
     for df in dfs:
         regions.append(set(df[col_name].unique()))
