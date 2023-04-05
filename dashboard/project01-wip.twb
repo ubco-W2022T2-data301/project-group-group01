@@ -1055,7 +1055,7 @@
       </datasource-dependencies>
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='93113' id='9' name='Calculated 20 yr rate of change &amp; aggregated scores of Canadian Metropolitan Areas' w='63294' x='36136' y='5739'>
+          <zone h='93113' id='9' name='Calculated 20 yr rate of change &amp; aggregated scores of Canadian Metropolitan Areas' w='63295' x='36135' y='5739'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -1063,7 +1063,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone h='48924' id='10' is-scaled='1' param='/Users/loganher/github-classroom/ubco-W2022T2-data301/project-group-group01/images/pairplot_of_all_rates_graph.png' type-v2='bitmap' w='35566' x='570' y='49928'>
+          <zone h='48924' id='10' is-scaled='1' param='/Users/loganher/github-classroom/ubco-W2022T2-data301/project-group-group01/images/pairplot_of_all_rates_graph.png' type-v2='bitmap' w='35565' x='570' y='49928'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -1071,7 +1071,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone h='4591' id='8' mode='checkdropdown' name='Calculated 20 yr rate of change &amp; aggregated scores of Canadian Metropolitan Areas' param='[federated.17dzlyn06mzy3r14m6q3v01qxxja].[none:GEO:nk]' type-v2='filter' w='35566' x='570' y='5739'>
+          <zone h='4591' id='8' mode='checkdropdown' name='Calculated 20 yr rate of change &amp; aggregated scores of Canadian Metropolitan Areas' param='[federated.17dzlyn06mzy3r14m6q3v01qxxja].[none:GEO:nk]' type-v2='filter' w='35565' x='570' y='5739'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -1079,7 +1079,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone h='33859' id='11' name='Metropolitan Map' w='35566' x='570' y='10330'>
+          <zone h='33859' id='11' name='Metropolitan Map' w='35565' x='570' y='10330'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -1098,7 +1098,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone forceUpdate='true' h='5739' id='13' type-v2='text' w='35566' x='570' y='44189'>
+          <zone forceUpdate='true' h='5739' id='13' type-v2='text' w='35565' x='570' y='44189'>
             <formatted-text>
               <run fontalignment='1' fontcolor='#000000' fontname='Tableau Regular' fontsize='12'>Correlation between calculated rates</run>
             </formatted-text>
@@ -1121,8 +1121,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1050' minheight='1050' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='25' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97704' id='24' param='vert' type-v2='layout-flow' w='98860' x='570' y='1148'>
+            <zone h='100000' id='27' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97704' id='26' param='vert' type-v2='layout-flow' w='98860' x='570' y='1148'>
                 <zone forceUpdate='true' h='4591' id='12' type-v2='text' w='98860' x='570' y='1148'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Tableau Bold' fontsize='12'>Canadian Metropolitan Project - Exploring the change in Housing Prices, Housing Construction, and Population of Canadian Metropolitan Areas over time</run>
@@ -1135,7 +1135,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='4591' id='8' mode='checkdropdown' name='Calculated 20 yr rate of change &amp; aggregated scores of Canadian Metropolitan Areas' param='[federated.17dzlyn06mzy3r14m6q3v01qxxja].[none:GEO:nk]' type-v2='filter' w='35566' x='570' y='5739'>
+                <zone h='4591' id='8' mode='checkdropdown' name='Calculated 20 yr rate of change &amp; aggregated scores of Canadian Metropolitan Areas' param='[federated.17dzlyn06mzy3r14m6q3v01qxxja].[none:GEO:nk]' type-v2='filter' w='35565' x='570' y='5739'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1144,7 +1144,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='93113' id='9' is-fixed='true' name='Calculated 20 yr rate of change &amp; aggregated scores of Canadian Metropolitan Areas' w='63294' x='36136' y='5739'>
+                <zone fixed-size='280' h='93113' id='9' is-fixed='true' name='Calculated 20 yr rate of change &amp; aggregated scores of Canadian Metropolitan Areas' w='63295' x='36135' y='5739'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1153,7 +1153,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='263' h='33859' id='11' is-fixed='true' name='Metropolitan Map' w='35566' x='570' y='10330'>
+                <zone fixed-size='263' h='33859' id='11' is-fixed='true' name='Metropolitan Map' w='35565' x='570' y='10330'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1162,7 +1162,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='5739' id='13' type-v2='text' w='35566' x='570' y='44189'>
+                <zone forceUpdate='true' h='5739' id='13' type-v2='text' w='35565' x='570' y='44189'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#000000' fontname='Tableau Regular' fontsize='12'>Correlation between calculated rates</run>
                   </formatted-text>
@@ -1174,7 +1174,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='48924' id='10' is-fixed='true' is-scaled='1' param='/Users/loganher/github-classroom/ubco-W2022T2-data301/project-group-group01/images/pairplot_of_all_rates_graph.png' type-v2='bitmap' w='35566' x='570' y='49928'>
+                <zone fixed-size='280' h='48924' id='10' is-fixed='true' is-scaled='1' param='/Users/loganher/github-classroom/ubco-W2022T2-data301/project-group-group01/images/pairplot_of_all_rates_graph.png' type-v2='bitmap' w='35565' x='570' y='49928'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
