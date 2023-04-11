@@ -22,7 +22,8 @@ Our dataset comprises 4 CSV files, all obtained from the statistics canada site,
 
 ## Images
 
-<img src ="images/log-dashboard.png" width="750px">
+<img src ="images/log-dashboard.png" width="750px"> 
+<img src ="images/kat-dashboard.jpg" width="750px">
 
 ## References
 
