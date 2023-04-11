@@ -1,7 +1,7 @@
 # Canadian Housing Project
 
 ## Introduction
-A short paragraph introducing your project to the audience and a motivation for why this project is important. It’s fine to say your group has an interest in this topic and were keen to explore it more.
+We are looking at the housing and demographic patterns in Canadian cities. We were interested in looking at the data for this topic because housing affordability and city living is an important part of the narrative of our generation. We wanted to look at the data and see what the trends are behind the prices and also, how different city look and are composed.
 
 ## Exploratory Data Analysis
 A summary of the highlights of your EDA, where you can show some visualizations of the exploratory data analysis your group did.
@@ -14,8 +14,23 @@ A summary of the highlights of your EDA, where you can show some visualizations 
 
 
 ## Question 1 + Results 
-Clearly state your research question, and include 2-3 visualizations that helped you answer your research question. You can create multi-panel figures, but each of your visualizations must speak directly to your research question, and any insights you were able to get from it should be clearly articulated in the figure caption/description.
-* See the full analysis here: [Analysis 1](https://github.com/ubco-W2022T2-data301/project-group-group01/blob/8942e9aec2881804cb16acf74ef3e13c48e2ea8e/analysis/Jamesanalysis1.ipynb)
+My research question is looking at the correlation between housing prices and shortfall. Housing affordability is a pivotal issue for my generation, and i believe that the oft touted narrative of phantom overseas buyers is only a narrative meant to distract from the fact that the true cause of housing prices is a lack of new housing as compared to population.
+
+### How different are major Canadian cities from each other for construction:
+![Shortfall_Distribution](images/shortdiff.png)
+Here we see that between the major cities, there is a significant difference in the shortfalls they experienced. This might be due to two factors. Firstly, all cities used the same occupancy rate, while local constructions might have differed (single family homes vs condos) in the occupancy they targeted. The other factor is that this analysis looks only at percentages, and cities of different sizes have wildly different absolute shortages, which might have different outcomes on price. These limit the confidence of the conclusions, but I think there are still some conclusions that can be drawn. 
+
+### How different are major Canadian cities from each other for Prices:
+![Price_Distribution](images/Pricediff.png)
+We see in this plot that prices are much more closely distributed in major Canadian cities. This suggests that there is less connection between how much shortfall is correlated with price increases.
+
+### Question 1 Result:
+![Vancouver_Plot](images/VancouverJ.png)
+While the general Canadian trend seems to not support the idea that there is a correlation between shortfall and prices, analysis of individual cities like vancovuer seems to paint a different picture. 
+In Vancouver, we can see that shortfalls are usually followed the next year by price jumps. This pattern provides some support for my hypothesis that shortfalls are more likely responsible for price changes as opposed to the idea that speculation drives up housing price. Though i didn't get to do the stastical analysis to scientifically prove my point, i think my graphs have somewhat helped illustrate my idea.
+
+* This is a brief overview of my analysis, for the more complete look, see the full analysis here: [Analysis 1](https://github.com/ubco-W2022T2-data301/project-group-group01/blob/8942e9aec2881804cb16acf74ef3e13c48e2ea8e/analysis/Jamesanalysis1.ipynb)
+
 
 ## Question 2 + Results
 * See the full analysis here: [Analysis 2](https://github.com/ubco-W2022T2-data301/project-group-group01/blob/8942e9aec2881804cb16acf74ef3e13c48e2ea8e/analysis/Logananalysis2.ipynb)
