@@ -14,20 +14,20 @@ A summary of the highlights of your EDA, where you can show some visualizations 
 
 
 ## Question 1 + Results 
-My research question is looking at the correlation between housing prices and shortfall. Housing affordability is a pivotal issue for my generation, and i believe that the oft touted narrative of phantom overseas buyers is only a narrative meant to distract from the fact that the true cause of housing prices is a lack of new housing as compared to population.
+* My research question is looking at the correlation between housing prices and shortfall. Housing affordability is a pivotal issue for my generation, and I believe that the oft touted narrative of phantom overseas buyers is only a narrative meant to distract from the fact that the true cause of housing prices is a lack of new housing as compared to population.
 
 ### How different are major Canadian cities from each other for construction:
 ![Shortfall_Distribution](images/shortdiff.png)
-Here we see that between the major cities, there is a significant difference in the shortfalls they experienced. This might be due to two factors. Firstly, all cities used the same occupancy rate, while local constructions might have differed (single family homes vs condos) in the occupancy they targeted. The other factor is that this analysis looks only at percentages, and cities of different sizes have wildly different absolute shortages, which might have different outcomes on price. These limit the confidence of the conclusions, but I think there are still some conclusions that can be drawn. 
+* Here we see that between the major cities, there is a significant difference in the shortfalls they experienced. This might be due to two factors. Firstly, all cities used the same occupancy rate, while local constructions might have differed (single family homes vs condos) in the occupancy they targeted. The other factor is that this analysis looks only at percentages, and cities of different sizes have wildly different absolute shortages, which might have different outcomes on price. These limit the confidence of the conclusions, but I think there are still some conclusions that can be drawn. 
 
 ### How different are major Canadian cities from each other for Prices:
 ![Price_Distribution](images/Pricediff.png)
-We see in this plot that prices are much more closely distributed in major Canadian cities. This suggests that there is less connection between how much shortfall is correlated with price increases.
+* We see in this plot that prices are much more closely distributed in major Canadian cities. This suggests that there is less connection between how much shortfall is correlated with price increases.
 
 ### Question 1 Result:
 ![Vancouver_Plot](images/VancouverJ.png)
-While the general Canadian trend seems to not support the idea that there is a correlation between shortfall and prices, analysis of individual cities like vancovuer seems to paint a different picture. 
-In Vancouver, we can see that shortfalls are usually followed the next year by price jumps. This pattern provides some support for my hypothesis that shortfalls are more likely responsible for price changes as opposed to the idea that speculation drives up housing price. Though i didn't get to do the stastical analysis to scientifically prove my point, i think my graphs have somewhat helped illustrate my idea.
+* While the general Canadian trend seems to not support the idea that there is a correlation between shortfall and prices, analysis of individual cities like vancovuer seems to paint a different picture. 
+* In Vancouver, we can see that shortfalls are usually followed the next year by price jumps. This pattern provides some support for my hypothesis that shortfalls are more likely responsible for price changes as opposed to the idea that speculation drives up housing price. Though I didn't get to do the stastical analysis to scientifically prove my point, I think my graphs have somewhat helped illustrate my idea.
 
 * This is a brief overview of my analysis, for the more complete look, see the full analysis here: [Analysis 1](https://github.com/ubco-W2022T2-data301/project-group-group01/blob/8942e9aec2881804cb16acf74ef3e13c48e2ea8e/analysis/Jamesanalysis1.ipynb)
 
@@ -38,7 +38,7 @@ In Vancouver, we can see that shortfalls are usually followed the next year by p
 * For my research focus, I wanted to explore how housing in canadian metropolitan areas has changed since 2001, so visualizing the change in housing price, housing construction, and population of CMA's was the central pillar of my analysis. Every step along the way was critical to creating clean datasets that could be used to answer my question, and assist my partners in arriving at their conclusions. 
 #### How has population in CMA's changed since 2001?
 ![pop_change_total](images/total_rate_change_PE_graph.png)
-As seen in the chart, in the 21 years since 2001, the top 30 metropolitan areas in Canada have continued to grow from ~5% to upwards of ~65% depending on the CMA. The fastest growing metropolitan area in Canada is Calgary, AB with Edmonton, AB and Kelowna, BC coming in close behind. 
+* As seen in the chart, in the 21 years since 2001, the top 30 metropolitan areas in Canada have continued to grow from ~5% to upwards of ~65% depending on the CMA. The fastest growing metropolitan area in Canada is Calgary, AB with Edmonton, AB and Kelowna, BC coming in close behind. 
 #### How have housing prices in CMA's changed since 2001?
 ![price_change_total](images/total_rate_change_NHPI_graph.png)
 * As seen in this chart, housing value has increased significantly in Canada in the time period previously specified, the increases ranged from 10% to over 200%. Winnipeg has had the largest increase in housing price over 20 years, with Calgary and Regina coming in 2nd and 3rd place. Interestingly, Calgary had the largest change in population and also a large change in price. Kelowna, which was 3rd in population increase is 20th in housing price increase. I believe this may be due to Kelowna being a lake city, which would have kept the price high even 20 years ago as it is desirable.
