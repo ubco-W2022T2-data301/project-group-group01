@@ -32,5 +32,5 @@ Our dataset comprises 4 CSV files, all obtained from the statistics canada site,
 
 [New Inventory Dataset](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3410015401)
 
-
+[Canadian Metropolitan Areas' Latitude/Longitude coordinates Dataset](https://community.tableau.com/s/question/0D54T00000C5vRvSAJ/census-metropolitan-areas-in-canada)
 
