@@ -22,13 +22,15 @@ Our dataset comprises 4 CSV files, all obtained from the statistics canada site,
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
-
-<img src ="images/test.png" width="100px">
+<img src ="images/log-dashboard.png" width="500px">
 
 ## References
 
-{Add your stuff here}
+[Population Estimate Dataset](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710013501)
+
+[New Housing Price Index Dataset](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810020501)
+
+[New Inventory Dataset](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3410015401)
 
 
 
