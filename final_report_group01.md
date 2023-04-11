@@ -5,15 +5,25 @@ We are looking at the housing and demographic patterns in Canadian cities. We we
 
 ## Exploratory Data Analysis
 A summary of the highlights of your EDA, where you can show some visualizations of the exploratory data analysis your group did.
-
+________
 * EDA for conducted in Analysis 2: 
     * My EDA focused on determining what datafields would be necessary to include in future cleaned versions of the datasets, and determining the canadian metropolitan areas (CMA's) that should be focused on for our analyses. I did so by first visualizing the datasets and dropping irrelevant columns, then I grouped all the years of data by their geographical region, and created a bar chart of the top 30 CMA's based on population increase.
     <img src ="images/EDA_pop_barchart.png" width="500px">
     
     I then carried these top 30 CMA's forward for the rest of the analysis. 
     * NOTE: EDA for analysis 2 can be found here: [Raw analysis 2](https://github.com/ubco-W2022T2-data301/project-group-group01/blob/8942e9aec2881804cb16acf74ef3e13c48e2ea8e/analysis/ungraded/Logananalysis2_raw.ipynb)
+ 
+________
+* EDA for conducted in Analysis 3:
+    * My EDA focused on which cities I should chose to further my analysis, and how I will chose them. I decided to make a facet plot to visualize the cities with the highest count of the different age groups that was not based on the cities population.
+     <img src ="images/facetpltofcities.png" width="650px">
+
+    I used these top 5 CMA's to use for the rest of my analysis. 
+    * NOTES: EDA for analysis 3 can be found here: [Raw analysis 3](https://github.com/ubco-W2022T2-data301/project-group-group01/blob/8942e9aec2881804cb16acf74ef3e13c48e2ea8e/analysis/Katrinaanalysis3.ipynb)
+    
 
 
+________
 ## Question 1 + Results 
 * My research question is looking at the correlation between housing prices and shortfall. Housing affordability is a pivotal issue for my generation, and I believe that the oft touted narrative of phantom overseas buyers is only a narrative meant to distract from the fact that the true cause of housing prices is a lack of new housing as compared to population.
 
@@ -32,7 +42,7 @@ A summary of the highlights of your EDA, where you can show some visualizations 
 
 * This is a brief overview of my analysis, for the more complete look, see the full analysis here: [Analysis 1](https://github.com/ubco-W2022T2-data301/project-group-group01/blob/8942e9aec2881804cb16acf74ef3e13c48e2ea8e/analysis/Jamesanalysis1.ipynb)
 
-
+________
 ## Question 2 + Results
 * See the full analysis here: [Analysis 2](https://github.com/ubco-W2022T2-data301/project-group-group01/blob/8942e9aec2881804cb16acf74ef3e13c48e2ea8e/analysis/Logananalysis2.ipynb)
 ### Exploring the change in housing prices, new housing construction, and population of canadian metropolitan areas over time.
@@ -55,11 +65,42 @@ A summary of the highlights of your EDA, where you can show some visualizations 
 
 * From the graph it can be seen that Montreal has the highest score of all other metropolitan areas by a significant margin. This is mainly due to its remarkable housing inventory and price percent change. Coming in second is Vancouver, then Edmonton. Wrapping up the top 5 metropolitan areas are Quebec and London. On the other end of things, Toronto has a negative score, due to its decrease in housing inventory percent change, meaning that there are not enough houses reaching the market to keep up with demand. The same can be said for the bottom 5 included in our analysis. Interestingly, the bottom 3 areas are all located in Ontario, which could be resultant in provincial legislation regarding housing construction or possibly just do to geographical limitations resticting increased inventory. Regardless, the worst scored areas are Toronto, Windsor, Guelph, and Greater Sudbury; whereas, the best scored areas are Montreal, Vancouver, Edmonton, and Quebec. 
 
-
-
+________
 ## Question 3 + Results
 * See the full analysis here: [Analysis 3](https://github.com/ubco-W2022T2-data301/project-group-group01/blob/8942e9aec2881804cb16acf74ef3e13c48e2ea8e/analysis/Katrinaanalysis3.ipynb)
 
+### My research question looks further into the demographic of Canadian metropolitan areas
+* Specifically, I looked into the age ranges of 20-39, 40-59 and then 60-79 within the top 5 Canadian metropolitan areas with the highest age count to elucidate the demographic trends of the largest CMA's.
+
+#### Which CMA's have the highest count of age groups within their population? 
+<img src = "images/catpltofcities.png" width="1050px">
+
+* This cat plot indicates the top 5 Canadian metropolitan areas that have the highest count of age groups within the cities population. It shows that the overview of each city and the age groups that are distributed throughout the city. In ascending order (with the city that has the highest population) it goes, Toronto, Montreal, Vancouver, Calgary and then Edmonton. 
+
+#### What are the demographic trends occurring within the chosen top 5 CMA's? 
+<img src = "images/Toronto, Ontario.png" width="1050px">
+<img src = "images/Montréal, Quebec.png" width="1050px">
+<img src = "images/Vancouver, British Columbia.png" width="1050px">
+<img src = "images/Calgary, Alberta.png" width="1050px">
+<img src = "images/Edmonton, Alberta.png" width="1050px">
+
+* Based on this graph made for Toronto, they have a high count of ages 40-44 but then it tapers off gradually as the ages increase. The ages 40-44 show to be the age group that has the highest count in Toronto. The ages groups of 50-79 have a steep decline in count. In comparison to all the top 5 cities chosen, Toronto has the highest count of population.
+* Based on this graph made for Montreal, they have a lower total population count in comparison to Toronto (as seen from my Y axis, population), and their age groups within the city show a much different age demographic trend. However, the age group 40-44 is similar to Toronto, where this age group has the highest count. The ages 20-39 have a gradual increase in total count as they reach 40 years old. The ages groups of 50-79 have a steep decline in count as the ages increase.
+* In Vancouver, the age group 25-29 have the highest count in the population, this is quite different from Toronto and Montreal as there is a 20 year age difference. The ages 40-49 are also at the highest count (this age groups whisker is level to the whisker for the 25-29 age group), but their upper and lower quartiles are much smaller than the 25-29 age group. From there as the ages increase, the counts decreases
+significantly.
+* In this graph made for Calgary, the highest count in the population is the age group 25-34. The age group 25-29's whisker is level to the the age group for 30-34 but the quartiles (for 25-29) are much smaller. As the ages increase, the count gradually decreases, where 75-79 have the lowest count in the total population.
+* When I look at the Calgary versus Edmonton graphs they are quite similar! My assumption for this may be due to the fact that both of these cities are in the same province. The only difference I see, would be that the total count for individual age groups in the population is slightly smaller (as their total population is smaller), and the age group 25-29 have the highest count in the population. Both of these cities show the same trend in demographics.
+
+### Comparative trends for chosen top 5 CMA's
+<img src = "images/stackedpltofcities.png" width="850px">
+
+* This comparative graph overlays all cities chosen and shows their demographic trends. Toronto has the highest population in respect to the other cities; Edmonton has the lowest population, but when shown the highest count of age groups within the cities (excluding population) Vancouver has the highest total count of age groups within the city and Calgary has the lowest total count of age groups. These results are quite shocking, as I would of assumed that Toronto has the highest count of age groups because of its high population.
+* I believe the most likely answer to this trend would be that Vancouver is known to be a multicultural city, therefore immigrating residents have a variance of ages. As this is speculative, further analysis needs to be conducted using immigration status to provide evidence for this assumption.
+
+
+
+
+________
 ## Summary/Conclusion
 ### Key points
 * Population in canadian metropolitan areas has increased across the map, although the rate of increase varies drastically. 
