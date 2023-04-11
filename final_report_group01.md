@@ -8,7 +8,7 @@ A summary of the highlights of your EDA, where you can show some visualizations 
 
 * EDA for conducted in Analysis 2: 
     * My EDA focused on determining what datafields would be necessary to include in future cleaned versions of the datasets, and determining the canadian metropolitan areas (CMA's) that should be focused on for our analyses. I did so by first visualizing the datasets and dropping irrelevant columns, then I grouped all the years of data by their geographical region, and created a bar chart of the top 30 CMA's based on population increase.
-    ![EDA_pop_barchart](images/EDA_pop_barchart.png)
+    <img src ="images/EDA_pop_barchart.png" width="500px">
     
     I then carried these top 30 CMA's forward for the rest of the analysis. 
     * NOTE: EDA for analysis 2 can be found here: [Raw analysis 2](https://github.com/ubco-W2022T2-data301/project-group-group01/blob/8942e9aec2881804cb16acf74ef3e13c48e2ea8e/analysis/ungraded/Logananalysis2_raw.ipynb)
@@ -38,17 +38,21 @@ A summary of the highlights of your EDA, where you can show some visualizations 
 ### Exploring the change in housing prices, new housing construction, and population of canadian metropolitan areas over time.
 * For my research focus, I wanted to explore how housing in canadian metropolitan areas has changed since 2001, so visualizing the change in housing price, housing construction, and population of CMA's was the central pillar of my analysis. Every step along the way was critical to creating clean datasets that could be used to answer my question, and assist my partners in arriving at their conclusions. 
 #### How has population in CMA's changed since 2001?
-![pop_change_total](images/total_rate_change_PE_graph.png)
+<img src ="images/total_rate_change_PE_graph.png" width="650px">
+
 * As seen in the chart, in the 21 years since 2001, the top 30 metropolitan areas in Canada have continued to grow from ~5% to upwards of ~65% depending on the CMA. The fastest growing metropolitan area in Canada is Calgary, AB with Edmonton, AB and Kelowna, BC coming in close behind. 
 #### How have housing prices in CMA's changed since 2001?
-![price_change_total](images/total_rate_change_NHPI_graph.png)
+<img src ="images/total_rate_change_NHPI_graph.png" width="650px">
+
 * As seen in this chart, housing value has increased significantly in Canada in the time period previously specified, the increases ranged from 10% to over 200%. Winnipeg has had the largest increase in housing price over 20 years, with Calgary and Regina coming in 2nd and 3rd place. Interestingly, Calgary had the largest change in population and also a large change in price. Kelowna, which was 3rd in population increase is 20th in housing price increase. I believe this may be due to Kelowna being a lake city, which would have kept the price high even 20 years ago as it is desirable.
 #### How has housing construction in CMA's changed since 2001?
-![inventory_change_total](images/total_rate_change_NI_graph.png)
+<img src ="images/total_rate_change_NI_graph.png" width="650px">
+
 * New inventory, otherwise known as new residences entering the market, has varied substantially between CMA's which is due to a number of factors not investigated in my analysis. One can speculate that inventory is controlled by each city's buracracy, housing prices, zoning, and demand for new residences, however how these speculative variables correlate is unknown. 
 * However, what can be known about housing inventory is that some areas such as Montreal, Vancouver, Edmonton, and Quebec have had substantial new inventory added to the market over the time period. Montreal had slightly under a 3000% increase whereas the other mentioned areas had between a 500% and 1000% increase in available housing in the metropolitan area. Large inventory increases are indicative of a CMA that stresses the importance of available housing, and probably is indicative of city that expects to have an upwards trend in population. Alternatively, cities with low inventory increases (or even decreases, such as Toronto and some other Ontario CMA's) most likely do not have the space to allocate for new residences, or already have a large number of residences and a high renter pool. These areas can make due with less inventory entering the market, however this will drive up housing prices and further push for a landlord's market. This claim is once again speculative, variables such as renter percentage were not obtained. 
 #### Aggregate Scoring - Which CMA's are best in terms of housing?
-![aggregate_score_chart](images/aggregated_score_graph.png)
+<img src ="images/aggregated_score_graph.png" width="650px">
+
 * From the graph it can be seen that Montreal has the highest score of all other metropolitan areas by a significant margin. This is mainly due to its remarkable housing inventory and price percent change. Coming in second is Vancouver, then Edmonton. Wrapping up the top 5 metropolitan areas are Quebec and London. On the other end of things, Toronto has a negative score, due to its decrease in housing inventory percent change, meaning that there are not enough houses reaching the market to keep up with demand. The same can be said for the bottom 5 included in our analysis. Interestingly, the bottom 3 areas are all located in Ontario, which could be resultant in provincial legislation regarding housing construction or possibly just do to geographical limitations resticting increased inventory. Regardless, the worst scored areas are Toronto, Windsor, Guelph, and Greater Sudbury; whereas, the best scored areas are Montreal, Vancouver, Edmonton, and Quebec. 
 
 
