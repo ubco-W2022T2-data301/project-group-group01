@@ -9,6 +9,7 @@ A summary of the highlights of your EDA, where you can show some visualizations 
 * EDA for conducted in Analysis 2: 
     * My EDA focused on determining what datafields would be necessary to include in future cleaned versions of the datasets, and determining the canadian metropolitan areas (CMA's) that should be focused on for our analyses. I did so by first visualizing the datasets and dropping irrelevant columns, then I grouped all the years of data by their geographical region, and created a bar chart of the top 30 CMA's based on population increase.
     ![EDA_pop_barchart](images/EDA_pop_barchart.png)
+    
     I then carried these top 30 CMA's forward for the rest of the analysis. 
     * NOTE: EDA for analysis 2 can be found here: [Raw analysis 2](https://github.com/ubco-W2022T2-data301/project-group-group01/blob/8942e9aec2881804cb16acf74ef3e13c48e2ea8e/analysis/ungraded/Logananalysis2_raw.ipynb)
 
