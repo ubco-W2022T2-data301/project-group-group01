@@ -97,9 +97,6 @@ significantly.
 * This comparative graph overlays all cities chosen and shows their demographic trends. Toronto has the highest population in respect to the other cities; Edmonton has the lowest population, but when shown the highest count of age groups within the cities (excluding population) Vancouver has the highest total count of age groups within the city and Calgary has the lowest total count of age groups. These results are quite shocking, as I would of assumed that Toronto has the highest count of age groups because of its high population.
 * I believe the most likely answer to this trend would be that Vancouver is known to be a multicultural city, therefore immigrating residents have a variance of ages. As this is speculative, further analysis needs to be conducted using immigration status to provide evidence for this assumption.
 
-
-
-
 ________
 ## Summary/Conclusion
 ### Key points
@@ -107,4 +104,11 @@ ________
 * Since 2001, all regions assessed have increase in housing prices, with the largest increase being in Winnipeg (over 200% increase)
 * Most CMA's have had an increase in housing inventory, but some regions (Toronto and other Ontario CMA's) have had a decrease or stable inventory. Having more inventory added is beneficial, therefore higher ranked CMA's must have a significant increase in market availablity. 
 * Based on aggregated scoring, Montreal, Vancouver, Edmonton, and Quebec are the top CMA's; Toronto, Windsor, Guelph, and Greater Sudbury are the bottom CMA's of the 30 assessed. 
+* Toronto, Montreal, Vancouver, Calgary and Edmonton have the highest counts for the age groups, 20-39, 40-59 and 60-79 within their population. 
+* High population does not necessarily mean it will have a high variance in different age groups. 
 ### Conclusion
+
+The initial scope of our project was to investigate different aspects of the canadian housing market and how it varies among canadian metropolitan areas. With that aim in mind, we tackled questions related to the housing market and CMAs' individually that could provide us with collective insight to our project topic. 
+###### James part here
+Resulting from analysis 2, it is clear that the largest canadian metropolitan areas have all had significant increases in both population and housing prices, and have had varied increases (and some decreases) related to housing market inventory. The top rated regions with respect to the rate at which population, housing price, and housing market inventory increased are Montreal, Vancouver, Edmonton, and Quebec. A number of CMA's fall short on one of the three calculated rates that may have been ranked quite well on the other metrics, such as Calgary or Kelowna, which had decreased their total ranking over all. Furthermore, this analysis only assessed three variables, and could be improved upon by adding more data to more accurately depict the shortcomings of each metropolitan area. The major findings from the results of analysis 3 indicated that Toronto, Montreal, Vancouver, Calgary and Edmonton each have their own unique demographic trends, thus influencing factors of housing within that specific CMA. Additionally, the demographic trends occurring in the CMA's is not reliant on how exceedingly large the population may be. 
+###### final concluding sentence here
