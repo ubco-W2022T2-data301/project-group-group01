@@ -109,6 +109,7 @@ ________
 * Since 2001, all regions assessed have increase in housing prices, with the largest increase being in Winnipeg (over 200% increase)
 * Most CMA's have had an increase in housing inventory, but some regions (Toronto and other Ontario CMA's) have had a decrease or stable inventory. Having more inventory added is beneficial, therefore higher ranked CMA's must have a significant increase in market availability. 
 * Based on aggregated scoring, Montreal, Vancouver, Edmonton, and Quebec are the top CMA's; Toronto, Windsor, Guelph, and Greater Sudbury are the bottom CMA's of the 30 assessed. 
+* Many large cities show a possible correlation between housing shortfalls and price increases, though the connection is muddied by some mitigating factors
 * Toronto, Montreal, Vancouver, Calgary and Edmonton have the highest counts for the age groups, 20-39, 40-59 and 60-79 within their population. 
 * High population does not necessarily mean it will have a high variance in different age groups. 
 ### Conclusion
