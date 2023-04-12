@@ -6,6 +6,13 @@ We are looking at the housing and demographic patterns in Canadian cities. We we
 ## Exploratory Data Analysis
 A summary of the highlights of your EDA, where you can show some visualizations of the exploratory data analysis your group did.
 ________
+* EDA Conducted in Analysis 1:
+    * My EDA focused on cities and the pricing of their new housing, as well as the shortfall in population.
+
+    I extracted the data for the time period we were interest in (2001 to present) then tallied them for each year (since the population data was only yearly) then I calculated the changes between years and plotted these as data points. 
+    In the end i had interest rate, new housing, population change, and new price index. All of these were then outputted for the dashboard. 
+
+________
 * EDA for conducted in Analysis 2: 
     * My EDA focused on determining what datafields would be necessary to include in future cleaned versions of the datasets, and determining the canadian metropolitan areas (CMA's) that should be focused on for our analyses. I did so by first visualizing the datasets and dropping irrelevant columns, then I grouped all the years of data by their geographical region, and created a bar chart of the top 30 CMA's based on population increase.
     <img src ="images/EDA_pop_barchart.png" width="500px">
@@ -112,3 +119,6 @@ The initial scope of our project was to investigate different aspects of the can
 ###### James part here
 Resulting from analysis 2, it is clear that the largest canadian metropolitan areas have all had significant increases in both population and housing prices, and have had varied increases (and some decreases) related to housing market inventory. The top rated regions with respect to the rate at which population, housing price, and housing market inventory increased are Montreal, Vancouver, Edmonton, and Quebec. A number of CMA's fall short on one of the three calculated rates that may have been ranked quite well on the other metrics, such as Calgary or Kelowna, which had decreased their total ranking over all. Furthermore, this analysis only assessed three variables, and could be improved upon by adding more data to more accurately depict the shortcomings of each metropolitan area. The major findings from the results of analysis 3 indicated that Toronto, Montreal, Vancouver, Calgary and Edmonton each have their own unique demographic trends, thus influencing factors of housing within that specific CMA. Additionally, the demographic trends occurring in the CMA's is not reliant on how exceedingly large the population may be. 
 ###### final concluding sentence here
+
+* Based on the graphs, it can be seen that there appears to be some correlation in cities such as vancouver between price rises and housing shortfalls.
+* These patterns are however not reproduced throughout all cities studied
